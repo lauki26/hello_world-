@@ -1,0 +1,1 @@
+My name is Lauren. I am a current junior at NYU studying Economics and Data Science. I love coding so I have done a few projects, mostly python. One project I am proud of is probably a final data analysis project from last semester.
